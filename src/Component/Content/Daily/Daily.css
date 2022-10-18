@@ -1,0 +1,17 @@
+.daily {
+  background: salmon;
+  padding: 15px 10px;
+  border-radius: 20px;
+  box-shadow: 5px 5px rgb(12, 11, 11);
+  margin: 10px 15px;
+}
+
+.daily > p {
+  text-align: center;
+  color: white;
+  font-weight: bold;
+}
+
+.day {
+  font-size: 25px;
+}

@@ -1,0 +1,33 @@
+.content {
+  flex-grow: 1;
+  padding: 5%;
+  box-sizing: border-box;
+  height: 100vh;
+  overflow-y: scroll;
+}
+
+h1 {
+  color: salmon;
+  font-weight: lighter;
+}
+
+.welcomeCity {
+  color: salmon;
+  font-weight: lighter;
+  font-size: 30px;
+  padding: 20px 0px;
+}
+
+.welcomeCity > span {
+  font-size: 30px;
+}
+
+.dailyResult {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+hr {
+  border: 1px solid salmon;
+  margin-top: 50px;
+}

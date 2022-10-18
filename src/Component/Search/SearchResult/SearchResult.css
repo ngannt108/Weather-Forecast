@@ -1,0 +1,38 @@
+.city {
+  background: white;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+img {
+  padding: 5px;
+}
+
+.tempAvg {
+  border: 1px solid black;
+  border-radius: 10px;
+  color: white;
+  background: black;
+}
+
+.row {
+  padding: 10px 15px 0px 15px;
+}
+
+.cityName {
+  display: flex;
+}
+
+.cityName p {
+  color: black;
+  padding-top: 3px;
+  font-size: 17px;
+}
+
+.geoCoords {
+  padding-bottom: 15px;
+}
+
+span {
+  font-size: 17px;
+}

@@ -1,0 +1,19 @@
+.dayH1 {
+  padding-top: 5%;
+}
+.detail {
+  display: flex;
+  padding: 20px 0px;
+}
+
+.detailOfDay {
+  margin-right: 5%;
+}
+
+.detailRow {
+  color: salmon;
+}
+
+.detailOfDay > p {
+  margin-bottom: 15px;
+}
